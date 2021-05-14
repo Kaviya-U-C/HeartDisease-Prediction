@@ -1,10 +1,11 @@
 # HeartDisease-Prediction - E2E Deployment using FastAPI and Heroku
 
 ## D20018 - DEMD End Term Assignment
+(This web app has been deployed in Heroku and had taken permission from sir as I didn't have prerequisites to create GCP account)
 
 ## Problem Statement:
 
-To build a classification model that predicts heart disease in paitents. We have to note that 'TenYearCHD' attribute in our dataset is our target variable where we will be predicting.
+To build a classification model that predicts heart disease in paitents. We have to note that 'TenYearCHD' attribute in our dataset is our target variable where we will be predicting and deploy the model in Heroku using FastAPI
 
 ## Data Source:
 
